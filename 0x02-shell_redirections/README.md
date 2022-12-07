@@ -21,3 +21,4 @@ A script that removes all letters
  To display lines containing the pattern of root
 To display all lines of the file
 a script that displays all users and their home directories 
+ a command that finds all empty files and directories 
