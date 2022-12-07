@@ -4,3 +4,4 @@ Display the content of a file
 Display the content of files
 Display the last 10 lines of a file
 Display the first 10 lines of a file
+ A script that displays the third line of the file
