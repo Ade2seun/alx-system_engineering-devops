@@ -20,3 +20,4 @@ A script that removes all letters
  a script that reverse its input
  To display lines containing the pattern of root
 To display all lines of the file
+a script that displays all users and their home directories 
