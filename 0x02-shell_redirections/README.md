@@ -7,3 +7,4 @@ Display the first 10 lines of a file
  A script that displays the third line of the file
 a shell script that creates a file named exactly 
 A script that writes into files
+ A script that duplicates the last line of the file
